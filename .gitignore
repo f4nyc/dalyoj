@@ -33,3 +33,6 @@
 # data
 *.in
 *.out
+
+# lsp
+*/.ropeproject
